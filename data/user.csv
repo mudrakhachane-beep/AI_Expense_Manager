@@ -1,0 +1,8 @@
+username,password,role,manager_username,company
+admin,admin123,Admin,,GCOE
+manager1,manager123,Manager,,GCOE
+manager2,manager123,Manager,,GCOE
+emp1,emp123,Employee,manager1,GCOE
+emp2,emp123,Employee,manager2,GCOE
+emp3,emo123,Employee,manager1,GCOE
+emp4,emp123,Employee,manager2,GCOE

@@ -1,0 +1,9 @@
+expense_id,username,amount,currency,category,description,date,status,approver_comments
+c55f73e1-fc4c-4049-9702-824f68cc73a6,emp1,1001.0,INR,Food,cause I'm in GCOEJ,2026-03-28,Approved,
+4eb1f1a2-b78f-4562-8778-81bc046e5a6b,emp1,1001.0,INR,Food,cause I'm in GCOEJ,2026-03-28,Rejected,
+a0db3c83-5830-444f-9c9c-4d5086ccd218,emp1,10.0,USD,Travel,I had a small lunch in US yesterday,2026-03-27,Approved,
+7a38878c-ec49-4308-9917-19ac80b0dd32,emp1,1050.0,INR,Office Supplies,spent on the office supplies this week,2026-03-28,Pending,
+766fbbf6-3f40-4979-a4a1-cb58a6ee2db4,emp1,800.0,INR,Medical,medical bill,2026-03-28,Pending,
+493083da-99f4-4a6c-8091-120f7cd80397,emp2,6000.0,INR,Accommodation,CodeDivas came from pune to jalgoan,2026-03-25,Approved,
+1717cdcb-2ff4-4184-91d2-fe5b15d95020,emp2,4050.0,INR,Other,spent on other small bills,2026-03-17,Approved,Ok
+2c404a71-6aba-4ccf-a6b6-1358d4f8237c,emp4,800.0,INR,Entertainment,Office team entertainment party night,2026-03-29,Approved,Yes
